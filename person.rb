@@ -11,3 +11,5 @@ BJORN_BORG = {
   "favorite_foods" => ["sushi", "hamburgers", "mexican food"],
   "favorite_sport" => "tennis"
 }
+
+p BJORN_BORG["last_name"]
