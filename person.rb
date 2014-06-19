@@ -13,3 +13,5 @@ BJORN_BORG = {
 }
 
 p BJORN_BORG["last_name"]
+
+p BJORN_BORG["favorite_sport"]
